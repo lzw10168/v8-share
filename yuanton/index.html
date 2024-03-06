@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset=utf-8>
+  <meta name=viewport content="width=device-width,initial-scale=1">
+  <title>track</title>
+  <style media=screen type=text/css>
+    #app_loading {
+      width: 100%;
+      height: 100%;
+      background-color: rgba(255, 255, 255, 0.7);
+    }
+
+    #app_loading .loading {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translateY(-50%) translateX(-50%);
+      transform: translateY(-50%) translateX(-50%);
+      width: 100%;
+      text-align: center;
+    }
+
+    #app_loading .circular {
+      height: 50px;
+      width: 50px;
+      -webkit-animation: loading-rotate 2s linear infinite;
+      animation: loading-rotate 2s linear infinite;
+    }
+
+    #app_loading .circular .path {
+      -webkit-animation: loading-dash 1.5s ease-in-out infinite;
+      animation: loading-dash 1.5s ease-in-out infinite;
+      stroke-dasharray: 90, 150;
+      stroke-dashoffset: 0;
+      stroke-width: 2;
+      stroke: #47086C;
+      stroke-linecap: round;
+    }
+
+    #app_loading .text {
+      display: block;
+      margin: 3px 0;
+      /* color: #47086C; */
+      font-size: 14px;
+    }
+
+    @keyframes loading-rotate {
+      100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+      }
+    }
+
+    @keyframes loading-dash {
+      0% {
+        stroke-dasharray: 1, 200;
+        stroke-dashoffset: 0;
+      }
+
+      50% {
+        stroke-dasharray: 90, 150;
+        stroke-dashoffset: -40px;
+      }
+
+      100% {
+        stroke-dasharray: 90, 150;
+        stroke-dashoffset: -120px;
+      }
+    }
+  </style>
+  <link href=/static/css/app.6537f7f07d2bd2557968b2670c5c857a.css rel=stylesheet>
+</head>
+
+<body data-fontsize=14 source=PORTAL id=rootBody>
+  <div id=app_loading>
+    <div class=loading><span class=text>加载中，请稍后...</span></div>
+  </div>
+  <div id=app style="display: none"></div>
+  <script src=https://bdwebcdn.yto56.com.cn/h5-static/modules/vue.min.2.6.12.js></script>
+  <script src=https://bdwebcdn.yto56.com.cn/h5-static/modules/vue-router.min.3.1.6.js></script>
+  <script src=https://bdwebcdn.yto56.com.cn/h5-static/modules/vuex.min.3.6.0.js></script>
+  <script src=https://bdwebcdn.yto56.com.cn/h5-static/modules/element.min.2.14.1.js></script>
+  <script src=https://bdwebcdn.yto56.com.cn/h5-static/modules/moment.min.2.29.1.js></script>
+  <script type=text/javascript
+    src=https://track.yto.net.cn/static/js/manifest.d20a5ac752a0b4ca486c.js></script>
+  <script type=text/javascript
+    src=https://track.yto.net.cn/static/js/vendor.27fdcb9b401164e51649.js></script>
+  <script type=text/javascript
+    src=https://track.yto.net.cn/static/js/app.6681562f6559b377f972.js></script>
+</body>
+
+</html>
