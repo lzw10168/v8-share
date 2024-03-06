@@ -1,7 +1,8 @@
 const axios = require('axios');
 const aesjs = require('./aes-js');
 const JSEncrypt = require('node-jsencrypt');
-const appendDataToExcel = require('./savefile');
+const savefile = require('./savefile');
+const { appendDataToExcel, appendDataToJSON } = savefile;
 const publicKey = "-----BEGIN PUBLIC KEY-----MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCAfPjwMX41Op6FxgFGfVJNMkyhqr+hLiUuYOQopeJBgfoGugsBfkZKhZS7erWL28MF+7GIT9qnWEqwx5wQlh9GbfVYs+5ZqaPC1PkGui5/xq+bxpRlBDF8FVJ5svTVvU1CbKDMvig2sarNZBrCH+M22vrmIsPnZubVfmPDxXJDBwIDAQAB-----END PUBLIC KEY-----"
 var aesKey = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16] // 随机产生
 /**
@@ -72,7 +73,7 @@ function aesDecrypt(encryptedHex, key) {
 
 
 function sendRequest(page) {
-const originParams = `num=&word=&sppp=&cj=&arrt=&page=${page}&count=5000&kc=1&cfy=0&xlpx=0&jgpx=0&mzcx=0&mjcx=0&cx=0&wj=0&jxq=0&preSale=0&lable=[]&isCjData=1&couponId=&promotionId=`
+const originParams = `num=&word=&sppp=&cj=&arrt=&page=${page}&count=20&kc=1&cfy=0&xlpx=0&jgpx=0&mzcx=0&mjcx=0&cx=0&wj=0&jxq=0&preSale=0&lable=[]&isCjData=1&couponId=&promotionId=`
 const data = encryptParams(originParams)
 
 
@@ -104,8 +105,8 @@ const data = encryptParams(originParams)
   .then((response) => {
     let realdata =aesDecrypt(response.data, aesKey);
     realdata = JSON.parse(realdata);
-    console.log('realdata[0]: ', realdata[0]);
-    appendDataToExcel(realdata[0]);
+    // appendDataToExcel(realdata[0]);
+    appendDataToJSON(realdata[0]);
   })
   .catch((error) => {
     console.log(error);

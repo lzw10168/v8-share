@@ -27,9 +27,14 @@ function appendDataToExcel(data, filePath = excelFilePath) {
     const newData = existingData.concat(data);
     // 将新数据转换为工作表
     const sheet = xlsx.utils.json_to_sheet(newData);
+    console.log('sheet: ', newData.length);
     // 更新工作簿
     const workbook = xlsx.readFile(filePath);
-    xlsx.utils.book_replace_sheet(workbook, sheet, 'Sheet1');
+    xlsx.utils.sheet_add_json(sheet, newData, { skipHeader: true, origin: -1 });
+    xlsx.utils.book_append_sheet(workbook, sheet, 'Sheet1');
+
+
+    // xlsx.utils.book_replace_sheet(workbook, sheet, 'Sheet1');
     xlsx.writeFile(workbook, filePath);
   }
 }
@@ -45,5 +50,20 @@ const jsonData = [
 // appendDataToExcel(jsonData, excelFilePath);
 
 
+function appendDataToJSON(data, filePath = 'output.json') {
+  let existingData = [];
+  if (fs.existsSync(filePath)) {
+    existingData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  }
+  const newData = existingData.concat(data);
+  fs.writeFileSync(filePath, JSON.stringify(newData, null, 2));
+}
 
-module.exports = appendDataToExcel
+
+
+
+module.exports = {
+  appendDataToExcel,
+  appendDataToJSON,
+  readExcel
+}

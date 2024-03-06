@@ -1,0 +1,3492 @@
+[
+  {
+    "_id": "5e042518fcdc4b9b876c7021",
+    "spid": "02163",
+    "spbh": "02163",
+    "spmc": "康森.藿香正气水(塑料瓶)",
+    "sptm": "02163",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "维生素类与矿物质类",
+    "flid2": "a5c02f06-95b3-7413-c67f-1c3f221cbcb0",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 2.8,
+    "spscj": 0,
+    "spdw": "盒",
+    "spkc": 3216,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "四川彩虹制药有限公司",
+    "spcj": "四川彩虹制药有限公司",
+    "spgg": "10ml*10支",
+    "sppzwh": "国药准字Z51022264",
+    "zjm": "hxzqs",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-05-30/230522",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 2.8
+      },
+      {
+        "spxsj": 2.8
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.8
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.8
+      },
+      {
+        "spxsj": 6
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 200,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [
+      {
+        "labelCommodityID": "6496d31f695eb304131561e0",
+        "labelName": "夏日解暑",
+        "isState": true,
+        "labelImg": "",
+        "ct": 1687606082166
+      }
+    ],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "2.80"
+  },
+  {
+    "_id": "5e04269dfcdc4b9b876cab3a",
+    "spid": "033",
+    "spbh": "033",
+    "spmc": "三公仔.小儿七星茶颗粒",
+    "sptm": "033",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "维生素类与矿物质类",
+    "flid2": "a5c02f06-95b3-7413-c67f-1c3f221cbcb0",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 14.5,
+    "spscj": 19,
+    "spdw": "盒",
+    "spkc": 7987,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广州王老吉药业股份有限公司",
+    "spcj": "广州王老吉药业股份有限公司",
+    "spgg": "7g*10袋",
+    "sppzwh": "国药准字Z44023698",
+    "zjm": "xeqxckl",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2026-07-31/2308066",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 14.5
+      },
+      {
+        "spxsj": 14.5
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 14.5
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 15
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 150,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": true,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "14.50"
+  },
+  {
+    "_id": "5e04245afcdc4b9b876c525e",
+    "spid": "04041",
+    "spbh": "04041",
+    "spmc": "金太子.藿香正气合剂",
+    "sptm": "04041",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "解表剂",
+    "flid2": "e3e801cd-185a-a7a5-156c-cec64ea6635f",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 4.4,
+    "spscj": 18,
+    "spdw": "盒",
+    "spkc": 12368,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "湖北太子药业有限公司",
+    "spcj": "湖北太子药业有限公司",
+    "spgg": "10ml*5支",
+    "sppzwh": "国药准字Z42020153",
+    "zjm": "hxzqhj",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-04-30/20230512",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 4.4
+      },
+      {
+        "spxsj": 4.4
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 4.4
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 4.4
+      },
+      {
+        "spxsj": 4.44
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 120,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [
+      {
+        "labelCommodityID": "6496d31f695eb304131561e0",
+        "labelName": "夏日解暑",
+        "isState": true,
+        "labelImg": "",
+        "ct": 1687606082177
+      }
+    ],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "4.40"
+  },
+  {
+    "_id": "5e0425fdfcdc4b9b876c928d",
+    "spid": "02494",
+    "spbh": "02494",
+    "spmc": "解热止痛散.阿咖酚散",
+    "sptm": "02494",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "解热镇痛",
+    "flid2": "47b306b2-eb3c-2735-6fdd-ed5f01ed3541",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 12.25,
+    "spscj": 20,
+    "spdw": "盒",
+    "spkc": 12412,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广州白云山医药集团股份有限公司白云山何济公制药厂",
+    "spcj": "广州白云山医药集团股份有限公司白云山何济公制药厂",
+    "spgg": "0.386g*100包",
+    "sppzwh": "国药准字H44024373",
+    "zjm": "akfs",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-10-31/K1870",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 12.25
+      },
+      {
+        "spxsj": 12.25
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 12.25
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 12.25
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(化学药制剂)",
+    "zhengjs": 120,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "labelCommodity": [],
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "12.25"
+  },
+  {
+    "_id": "5e04261cfcdc4b9b876c986a",
+    "spid": "00071",
+    "spbh": "00071",
+    "spmc": "白云山.小柴胡颗粒",
+    "sptm": "00071",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "和解剂",
+    "flid2": "a84ef049-678b-992d-5f24-fd8ba3629218",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 18.8,
+    "spscj": 0,
+    "spdw": "盒",
+    "spkc": 7633,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广州白云山光华制药股份有限公司",
+    "spcj": "广州白云山光华制药股份有限公司",
+    "spgg": "10g*10袋",
+    "sppzwh": "国药准字Z44020211",
+    "zjm": "xchkl",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-10-31/K30715",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 18.8
+      },
+      {
+        "spxsj": 18.8
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 18.8
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 19.5
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 100,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "小柴胡颗粒    买50盒送维达抽取式纸面巾1件【40746】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "18.80"
+  },
+  {
+    "_id": "5e042554fcdc4b9b876c78fe",
+    "spid": "00122",
+    "spbh": "00122",
+    "spmc": "禾穗速校.氨咖黄敏胶囊",
+    "sptm": "00122",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "解热镇痛",
+    "flid2": "47b306b2-eb3c-2735-6fdd-ed5f01ed3541",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 7,
+    "spscj": 0,
+    "spdw": "盒",
+    "spkc": 5304,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广州白云山光华制药股份有限公司",
+    "spcj": "广州白云山光华制药股份有限公司",
+    "spgg": "12粒",
+    "sppzwh": "国药准字H44024290",
+    "zjm": "akhmjn",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-11-30/T30145",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 7
+      },
+      {
+        "spxsj": 7
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 7
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 7.75
+      },
+      {
+        "spxsj": 15
+      }
+    ],
+    "operateCode": "非处方药(化学药制剂)",
+    "zhengjs": 600,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "禾穗速校.氨咖黄敏胶囊  买10折1原品",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "7.00"
+  },
+  {
+    "_id": "5e0425fefcdc4b9b876c93ce",
+    "spid": "03049",
+    "spbh": "03049",
+    "spmc": "慧宝源.十滴水",
+    "sptm": "03049",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "祛暑剂",
+    "flid2": "42a9c25d-d615-c563-c879-14dce3e04b50",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "乙类非处方药",
+    "spxsj": 2.25,
+    "spscj": 0,
+    "spdw": "盒",
+    "spkc": 2461,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广西慧宝源医药科技有限公司",
+    "spcj": "广西慧宝源医药科技有限公司",
+    "spgg": "5ml*10支",
+    "sppzwh": "国药准字Z45021535",
+    "zjm": "sds",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-06-30/S0288",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 2.25
+      },
+      {
+        "spxsj": 2.25
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.25
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.25
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 300,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [
+      {
+        "labelCommodityID": "6496d31f695eb304131561e0",
+        "labelName": "夏日解暑",
+        "isState": true,
+        "labelImg": "",
+        "ct": 1687606361606
+      }
+    ],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "2.25"
+  },
+  {
+    "_id": "5e0423ebfcdc4b9b876c3fa9",
+    "spid": "01056",
+    "spbh": "01056",
+    "spmc": "999皮炎平.复方醋酸地塞米松乳膏（999系列）",
+    "sptm": "01056",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "呼吸系统",
+    "flid2": "9829d573-b595-02a9-5b9e-d183d6211b63",
+    "ppid": "62492c0b30eefc157e05859d",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 10.45,
+    "spscj": 0,
+    "spdw": "支",
+    "spkc": 7800,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "华润三九医药股份有限公司",
+    "spcj": "华润三九医药股份有限公司",
+    "spgg": "20g",
+    "sppzwh": "国药准字H44024170",
+    "zjm": "ffcsdsmsrg",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2026-05-31/2306028S",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 10.45
+      },
+      {
+        "spxsj": 10.45
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 10.45
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 10.6
+      },
+      {
+        "spxsj": 11.5
+      }
+    ],
+    "operateCode": "非处方药(化学药制剂)",
+    "zhengjs": 300,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "10.45"
+  },
+  {
+    "_id": "5e0426b1fcdc4b9b876cae70",
+    "spid": "00435",
+    "spbh": "00435",
+    "spmc": "嘉应.双料喉风散",
+    "sptm": "00435",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "其它类",
+    "flid2": "c646f150-927c-583c-9b6f-fd482ed5b79b",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 11.5,
+    "spscj": 12.8,
+    "spdw": "支",
+    "spkc": 26971,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广东嘉应制药股份有限公司",
+    "spcj": "广东嘉应制药股份有限公司",
+    "spgg": "2.2g",
+    "sppzwh": "国药准字Z44020314",
+    "zjm": "slhfs",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2027-04-30/20230504",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 11.5
+      },
+      {
+        "spxsj": 11.5
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 10.7
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 11.8
+      },
+      {
+        "spxsj": 14.13
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 360,
+    "grossInterestRate": 10,
+    "full_increase": "买10折1原品",
+    "fullDown": 0,
+    "fullGift": 1,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "双料喉风散 10折1原品",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "11.50"
+  },
+  {
+    "_id": "5e04257bfcdc4b9b876c7ecb",
+    "spid": "02924",
+    "spbh": "02924",
+    "spmc": "恒健.消炎镇痛膏",
+    "sptm": "02924",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "清热剂",
+    "flid2": "4fdf697e-5fbe-e230-9335-9d51b2a2ddfd",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "乙类非处方药",
+    "spxsj": 2.05,
+    "spscj": 8,
+    "spdw": "袋",
+    "spkc": 8109,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广东恒健制药有限公司",
+    "spcj": "广东恒健制药有限公司",
+    "spgg": "4cm*6cm*10片",
+    "sppzwh": "国药准字Z44023481",
+    "zjm": "xyztg",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-12-03/231203",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 2.05
+      },
+      {
+        "spxsj": 2.05
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.08
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.1
+      },
+      {
+        "spxsj": 2.6
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 1200,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "2.05"
+  },
+  {
+    "_id": "5e042662fcdc4b9b876ca317",
+    "spid": "00422",
+    "spbh": "00422",
+    "spmc": "白云山.风油精",
+    "sptm": "00422",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "其它类",
+    "flid2": "c646f150-927c-583c-9b6f-fd482ed5b79b",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "乙类非处方药",
+    "spxsj": 1.75,
+    "spscj": 3,
+    "spdw": "瓶",
+    "spkc": 7555,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广州白云山医药集团股份有限公司白云山何济公制药厂",
+    "spcj": "广州白云山医药集团股份有限公司白云山何济公制药厂",
+    "spgg": "3ml",
+    "sppzwh": "国药准字Z44021847",
+    "zjm": "fyj",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2026-02-28/K1028",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 1.75
+      },
+      {
+        "spxsj": 1.75
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 1.75
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 1.8
+      },
+      {
+        "spxsj": 2.38
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 1000,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "1.75"
+  },
+  {
+    "_id": "5e0424fafcdc4b9b876c6b41",
+    "spid": "00068",
+    "spbh": "00068",
+    "spmc": "都乐.金嗓子喉片",
+    "sptm": "00068",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "其它类",
+    "flid2": "c646f150-927c-583c-9b6f-fd482ed5b79b",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 9.1,
+    "spscj": 12.5,
+    "spdw": "盒",
+    "spkc": 2404,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广西金嗓子有限责任公司",
+    "spcj": "广西金嗓子有限责任公司",
+    "spgg": "2g*12片",
+    "sppzwh": "国药准字B20020993",
+    "zjm": "jszhp",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 8,
+    "invaliddate": "2026-11-30/23121102",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 9.1
+      },
+      {
+        "spxsj": 9.1
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 9.1
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 9.5
+      },
+      {
+        "spxsj": 10.19
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 384,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": true,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "9.10"
+  },
+  {
+    "_id": "5e0425eafcdc4b9b876c9029",
+    "spid": "00402",
+    "spbh": "00402",
+    "spmc": "感冒通.氯芬黄敏片",
+    "sptm": "00402",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "解热镇痛",
+    "flid2": "47b306b2-eb3c-2735-6fdd-ed5f01ed3541",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "处方药",
+    "spxsj": 8.4,
+    "spscj": 10,
+    "spdw": "瓶",
+    "spkc": 3189,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广东华南药业集团有限公司",
+    "spcj": "广东华南药业集团有限公司",
+    "spgg": "50片",
+    "sppzwh": "国药准字H44024473",
+    "zjm": "lfhmp",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2026-10-18/231001",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 8.4
+      },
+      {
+        "spxsj": 8.4
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 8.4
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 9
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "处方药(化学药制剂)",
+    "zhengjs": 350,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "感冒通.氯芬黄敏片  买10折华南牌.双氯芬酸钠肠溶片5盒【09460】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": true,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "8.40"
+  },
+  {
+    "_id": "5e04259afcdc4b9b876c842e",
+    "spid": "00407",
+    "spbh": "00407",
+    "spmc": "倍他乐克.酒石酸美托洛尔片",
+    "sptm": "00407",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "维生素类与矿物质类",
+    "flid2": "a5c02f06-95b3-7413-c67f-1c3f221cbcb0",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "处方药",
+    "spxsj": 7.8,
+    "spscj": 9,
+    "spdw": "盒",
+    "spkc": 816,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "阿斯利康制药有限公司",
+    "spcj": "阿斯利康制药有限公司",
+    "spgg": "25mg*20片",
+    "sppzwh": "国药准字H32025391",
+    "zjm": "jssmtlep",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2026-09-30/2310132",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 7.8
+      },
+      {
+        "spxsj": 7.8
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 7.8
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 7.9
+      },
+      {
+        "spxsj": 8.94
+      }
+    ],
+    "operateCode": "处方药(化学药制剂)",
+    "zhengjs": 240,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "7.80"
+  },
+  {
+    "_id": "5e04250efcdc4b9b876c6e1b",
+    "spid": "01790",
+    "spbh": "01790",
+    "spmc": "贵州百灵.维C银翘片",
+    "sptm": "01790",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "解表剂",
+    "flid2": "e3e801cd-185a-a7a5-156c-cec64ea6635f",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 2.25,
+    "spscj": 0,
+    "spdw": "瓶",
+    "spkc": 21668,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "贵州百灵企业集团制药股份有限公司",
+    "spcj": "贵州百灵企业集团制药股份有限公司",
+    "spgg": "18片",
+    "sppzwh": "国药准字Z52020455",
+    "zjm": "wCyqp",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-09-06/20230918",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 2.25
+      },
+      {
+        "spxsj": 2.25
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.25
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.25
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(化学药制剂)",
+    "zhengjs": 1000,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": true,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "2.25"
+  },
+  {
+    "_id": "5e0424d2fcdc4b9b876c6522",
+    "spid": "00152",
+    "spbh": "00152",
+    "spmc": "白云山.板蓝根颗粒",
+    "sptm": "00152",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "维生素类与矿物质类",
+    "flid2": "a5c02f06-95b3-7413-c67f-1c3f221cbcb0",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "乙类非处方药",
+    "spxsj": 14.5,
+    "spscj": 16.8,
+    "spdw": "包",
+    "spkc": 1845,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广州白云山和记黄埔中药有限公司",
+    "spcj": "广州白云山和记黄埔中药有限公司",
+    "spgg": "10g*20袋",
+    "sppzwh": "国药准字Z44023485",
+    "zjm": "blgkl",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-08-31/I23A005",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 14.5
+      },
+      {
+        "spxsj": 14.5
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 14.5
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 15.5
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 50,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "14.50"
+  },
+  {
+    "_id": "5e042693fcdc4b9b876caa0d",
+    "spid": "00388",
+    "spbh": "00388",
+    "spmc": "彼洛平.苯磺酸氨氯地平片",
+    "sptm": "00388",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "维生素类与矿物质类",
+    "flid2": "a5c02f06-95b3-7413-c67f-1c3f221cbcb0",
+    "ppid": "655431f78cb81f505bf10ac9",
+    "issj": true,
+    "iscfy": "处方药",
+    "spxsj": 6.25,
+    "spscj": 23,
+    "spdw": "盒",
+    "spkc": 3092,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广东彼迪药业有限公司",
+    "spcj": "广东彼迪药业有限公司",
+    "spgg": "5mg*14片",
+    "sppzwh": "国药准字H20057316",
+    "zjm": "bhsaldpp",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-11-30/20231202",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 6.25
+      },
+      {
+        "spxsj": 6.25
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 6.25
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 6.25
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "处方药(化学药制剂)",
+    "zhengjs": 300,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "6.25"
+  },
+  {
+    "_id": "5e04267ffcdc4b9b876ca6a9",
+    "spid": "00573",
+    "spbh": "00573",
+    "spmc": "恒健.维生素B1片",
+    "sptm": "00573",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "维生素类与矿物质类",
+    "flid2": "a5c02f06-95b3-7413-c67f-1c3f221cbcb0",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "乙类非处方药",
+    "spxsj": 1.98,
+    "spscj": 8,
+    "spdw": "瓶",
+    "spkc": 1219,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广东恒健制药有限公司",
+    "spcj": "广东恒健制药有限公司",
+    "spgg": "10mg*100片",
+    "sppzwh": "国药准字H44020620",
+    "zjm": "wssBp",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-07-03/230704",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 1.98
+      },
+      {
+        "spxsj": 1.98
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 1.98
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.3
+      },
+      {
+        "spxsj": 2.41
+      }
+    ],
+    "operateCode": "非处方药(化学药制剂)",
+    "zhengjs": 900,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": true,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "1.98"
+  },
+  {
+    "_id": "5e042522fcdc4b9b876c719f",
+    "spid": "02368",
+    "spbh": "02368",
+    "spmc": "肤疾宁.曲安奈德新霉素贴膏",
+    "sptm": "02368",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "抗感染/微生物类",
+    "flid2": "78854055-3f0a-d283-1cd1-d73376a7dffd",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "处方药",
+    "spxsj": 2.4,
+    "spscj": 4,
+    "spdw": "袋",
+    "spkc": 6937,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广东恒健制药有限公司",
+    "spcj": "广东恒健制药有限公司",
+    "spgg": "4cm*6cm*4贴",
+    "sppzwh": "国药准字H44024941",
+    "zjm": "qandxmstg",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-08-10/230808",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 2.4
+      },
+      {
+        "spxsj": 2.4
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.4
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.52
+      },
+      {
+        "spxsj": 3
+      }
+    ],
+    "operateCode": "处方药(化学药制剂)",
+    "zhengjs": 3000,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "2.40"
+  },
+  {
+    "_id": "5e04269dfcdc4b9b876cab42",
+    "spid": "072",
+    "spbh": "072",
+    "spmc": "广州.保济口服液",
+    "sptm": "072",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "解表剂",
+    "flid2": "e3e801cd-185a-a7a5-156c-cec64ea6635f",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 17.8,
+    "spscj": 0,
+    "spdw": "盒",
+    "spkc": 2161,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广州王老吉药业股份有限公司",
+    "spcj": "广州王老吉药业股份有限公司",
+    "spgg": "10ml*10支",
+    "sppzwh": "国药准字Z44020582",
+    "zjm": "bjkfy",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2026-06-30/2307409",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 17.8
+      },
+      {
+        "spxsj": 17.8
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 18
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 60,
+    "grossInterestRate": 10,
+    "full_increase": "买10折1原品",
+    "fullDown": 0,
+    "fullGift": 1,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "买10折1原品",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": true,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "17.80"
+  },
+  {
+    "_id": "5e042459fcdc4b9b876c5120",
+    "spid": "034",
+    "spbh": "034",
+    "spmc": "星群.夏桑菊颗粒",
+    "sptm": "034",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "清热剂",
+    "flid2": "4fdf697e-5fbe-e230-9335-9d51b2a2ddfd",
+    "ppid": "6492bbf9695eb3041314a74e",
+    "issj": true,
+    "iscfy": "乙类非处方药",
+    "spxsj": 20.7,
+    "spscj": 23.8,
+    "spdw": "包",
+    "spkc": 5480,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广州白云山明兴制药有限公司",
+    "spcj": "广州白云山星群(药业)股份有限公司委托广州白云山明兴制药有限公司生产",
+    "spgg": "10g*20袋",
+    "sppzwh": "国药准字Z44022217",
+    "zjm": "xsjkl",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2026-03-31/UA10226",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 20.7
+      },
+      {
+        "spxsj": 20.7
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 20.7
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 21.8
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 50,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "20.70"
+  },
+  {
+    "_id": "5e0425f4fcdc4b9b876c9282",
+    "spid": "01004",
+    "spbh": "01004",
+    "spmc": "京制牛黄解毒片（同仁堂系列）",
+    "sptm": "01004",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "清热剂",
+    "flid2": "4fdf697e-5fbe-e230-9335-9d51b2a2ddfd",
+    "ppid": "62492c7830eefc157e05859f",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 25.9,
+    "spscj": 30,
+    "spdw": "盒",
+    "spkc": 264,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "北京同仁堂科技发展股份有限公司制药厂",
+    "spcj": "北京同仁堂科技发展股份有限公司制药厂",
+    "spgg": "0.6g*8片*10瓶",
+    "sppzwh": "国药准字Z11020472",
+    "zjm": "jznhjdp",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2026-11-30/23123933",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 25.9
+      },
+      {
+        "spxsj": 25.9
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 25.9
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 26.8
+      },
+      {
+        "spxsj": 27.75
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 120,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "25.90"
+  },
+  {
+    "_id": "5e0426b2fcdc4b9b876caebc",
+    "spid": "00408",
+    "spbh": "00408",
+    "spmc": "北京降压O号.复方利血平氨苯蝶啶片（华润双鹤）",
+    "sptm": "00408",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "循环系统",
+    "flid2": "944e5520-7ab1-e76f-1627-79fc02f29748",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "处方药",
+    "spxsj": 12.55,
+    "spscj": 15,
+    "spdw": "盒",
+    "spkc": 629,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "华润双鹤药业股份有限公司",
+    "spcj": "华润双鹤利民药业(济南)有限公司",
+    "spgg": "10片",
+    "sppzwh": "国药准字H11022335",
+    "zjm": "fflxpabddp",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-06-06/230609",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 12.55
+      },
+      {
+        "spxsj": 12.55
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 12.55
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 12.75
+      },
+      {
+        "spxsj": 15.96
+      }
+    ],
+    "operateCode": "处方药(化学药制剂)",
+    "zhengjs": 300,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "labelCommodity": [],
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "12.55"
+  },
+  {
+    "_id": "5e04246efcdc4b9b876c5571",
+    "spid": "05610",
+    "spbh": "05610",
+    "spmc": "扶娃.葡萄糖酸钙锌口服溶液",
+    "sptm": "05610",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "维生素类与矿物质类",
+    "flid2": "a5c02f06-95b3-7413-c67f-1c3f221cbcb0",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "乙类非处方药",
+    "spxsj": 19.5,
+    "spscj": 45,
+    "spdw": "盒",
+    "spkc": 445,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "湖北午时药业股份有限公司",
+    "spcj": "湖北午时药业股份有限公司",
+    "spgg": "10ml*18支",
+    "sppzwh": "国药准字H20059419",
+    "zjm": "pttsgxkfry",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-09-30/23102101",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 19.5
+      },
+      {
+        "spxsj": 19.5
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 19.5
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 20.48
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(化学药制剂)",
+    "zhengjs": 80,
+    "grossInterestRate": 10,
+    "full_increase": "买20折2原品",
+    "fullDown": 0,
+    "fullGift": 1,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "扶娃.葡萄糖酸钙锌口服溶液  买20折2原品",
+    "medicalType": "",
+    "labelCommodity": [
+      {
+        "labelCommodityID": "5efe835f0f05fdb341f806a2",
+        "labelName": "买赠专区",
+        "isState": false,
+        "labelImg": "",
+        "ct": 1697773388754
+      }
+    ],
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "19.50"
+  },
+  {
+    "_id": "5e04254afcdc4b9b876c77f1",
+    "spid": "00716",
+    "spbh": "00716",
+    "spmc": "三金.桂林西瓜霜",
+    "sptm": "00716",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "其它类",
+    "flid2": "c646f150-927c-583c-9b6f-fd482ed5b79b",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 10.68,
+    "spscj": 15.8,
+    "spdw": "瓶",
+    "spkc": 1089,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "桂林三金药业股份有限公司",
+    "spcj": "桂林三金药业股份有限公司",
+    "spgg": "3.5g",
+    "sppzwh": "国药准字Z45021599",
+    "zjm": "glxgs",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2026-09-13/230937",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 10.68
+      },
+      {
+        "spxsj": 10.68
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 10.68
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 11.1
+      },
+      {
+        "spxsj": 14
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 360,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "三金.桂林西瓜霜   买20瓶送三金西瓜霜牙膏1支100g【01640】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": true,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "10.68"
+  },
+  {
+    "_id": "5e04259afcdc4b9b876c83e5",
+    "spid": "03801",
+    "spbh": "03801",
+    "spmc": "济民.感冒灵颗粒",
+    "sptm": "03801",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "维生素类与矿物质类",
+    "flid2": "a5c02f06-95b3-7413-c67f-1c3f221cbcb0",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 5.3,
+    "spscj": 15,
+    "spdw": "盒",
+    "spkc": 23997,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广西济民制药有限公司",
+    "spcj": "广西济民制药有限公司",
+    "spgg": "10g*9袋",
+    "sppzwh": "国药准字Z45020054",
+    "zjm": "gmlkl",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-11-30/231245",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 5.3
+      },
+      {
+        "spxsj": 5.3
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 5.15
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 5.3
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 100,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "5.30"
+  },
+  {
+    "_id": "5e04246dfcdc4b9b876c548d",
+    "spid": "05644",
+    "spbh": "05644",
+    "spmc": "今来芬布得.布洛芬缓释胶囊",
+    "sptm": "05644",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "解热镇痛",
+    "flid2": "47b306b2-eb3c-2735-6fdd-ed5f01ed3541",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 7.05,
+    "spscj": 18,
+    "spdw": "盒",
+    "spkc": 922,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "长春海外制药集团有限公司",
+    "spcj": "长春海外制药集团有限公司",
+    "spgg": "0.3g*10粒*2板",
+    "sppzwh": "国药准字H20066622",
+    "zjm": "blfhsjn",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-08-31/20230925",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 7.05
+      },
+      {
+        "spxsj": 7.05
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 7.05
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 7.1
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(化学药制剂)",
+    "zhengjs": 400,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "7.05"
+  },
+  {
+    "_id": "5e04789cfcdc4b9b87769a7a",
+    "spid": "07881",
+    "spbh": "07881",
+    "spmc": "六橘堂.小柴胡颗粒",
+    "sptm": "07881",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "和解剂",
+    "flid2": "a84ef049-678b-992d-5f24-fd8ba3629218",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 6.3,
+    "spscj": 15,
+    "spdw": "盒",
+    "spkc": 166,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "安徽张恒春药业股份有限公司",
+    "spcj": "安徽张恒春药业股份有限公司",
+    "spgg": "10g*10袋",
+    "sppzwh": "国药准字Z34020118",
+    "zjm": "xchkl",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-10-31/2311062",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 6.3
+      },
+      {
+        "spxsj": 6.3
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 6.3
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 120,
+    "grossInterestRate": 10,
+    "full_increase": "买10折1原品",
+    "fullDown": 0,
+    "fullGift": 1,
+    "fullDownPromotionName": "领劵中心领劵",
+    "labelCommodity": [],
+    "fullGiftPromotionName": "六橘堂.小柴胡颗粒 买10折1原品",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "6.30"
+  },
+  {
+    "_id": "5e042572fcdc4b9b876c7e27",
+    "spid": "00908",
+    "spbh": "00908",
+    "spmc": "鹅城.黄柏胶囊",
+    "sptm": "00908",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "清热剂",
+    "flid2": "4fdf697e-5fbe-e230-9335-9d51b2a2ddfd",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "处方药",
+    "spxsj": 3.5,
+    "spscj": 8,
+    "spdw": "瓶",
+    "spkc": 1792,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广东省惠州市中药厂有限公司",
+    "spcj": "广东省惠州市中药厂有限公司",
+    "spgg": "1g*36粒",
+    "sppzwh": "国药准字Z44021878",
+    "zjm": "hbjn",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-10-31/231107",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 3.5
+      },
+      {
+        "spxsj": 3.5
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 3.5
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 3.65
+      },
+      {
+        "spxsj": 4.06
+      }
+    ],
+    "operateCode": "处方药(中成药)",
+    "zhengjs": 480,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": true,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "3.50"
+  },
+  {
+    "_id": "5e042662fcdc4b9b876ca337",
+    "spid": "00427",
+    "spbh": "00427",
+    "spmc": "贵州百灵.咳速停糖浆",
+    "sptm": "00427",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "止咳平喘剂",
+    "flid2": "ec11e253-8e20-9efa-40fc-811d2438f627",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 15.3,
+    "spscj": 18,
+    "spdw": "瓶",
+    "spkc": 33653,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "贵州百灵企业集团制药股份有限公司",
+    "spcj": "贵州百灵企业集团制药股份有限公司",
+    "spgg": "100ml",
+    "sppzwh": "国药准字Z20025238",
+    "zjm": "ksttj",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-11-04/20231111",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 15.3
+      },
+      {
+        "spxsj": 15.3
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 15.3
+      },
+      {
+        "spxsj": 14.8
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 60,
+    "grossInterestRate": 10,
+    "full_increase": "买10折2原品",
+    "fullDown": 0,
+    "fullGift": 1,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "贵州百灵.咳速停糖浆  买10折2原品",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "15.30"
+  },
+  {
+    "_id": "5e042496fcdc4b9b876c5bd7",
+    "spid": "06212",
+    "spbh": "06212",
+    "spmc": "复方穿心莲片.糖衣片",
+    "sptm": "06212",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "清热剂",
+    "flid2": "4fdf697e-5fbe-e230-9335-9d51b2a2ddfd",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 2.95,
+    "spscj": 5.8,
+    "spdw": "瓶",
+    "spkc": 3380,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广东省惠州市中药厂有限公司",
+    "spcj": "广东省惠州市中药厂有限公司",
+    "spgg": "100片",
+    "sppzwh": "国药准字Z44021867",
+    "zjm": "ffcxlp",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-11-30/231211",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 2.95
+      },
+      {
+        "spxsj": 2.95
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.95
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.95
+      },
+      {
+        "spxsj": 3.06
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 480,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "2.95"
+  },
+  {
+    "_id": "5e042644fcdc4b9b876c9e7c",
+    "spid": "03047",
+    "spbh": "03047",
+    "spmc": "鹅城.腹可安片",
+    "sptm": "03047",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "消导剂",
+    "flid2": "b0d7ba57-0a36-e500-15ef-cab2833bf0ae",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 1.2,
+    "spscj": 4.5,
+    "spdw": "瓶",
+    "spkc": 3819,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广东省惠州市中药厂有限公司",
+    "spcj": "广东省惠州市中药厂有限公司",
+    "spgg": "24片",
+    "sppzwh": "国药准字Z44021871",
+    "zjm": "fkap",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-11-30/231236",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 1.2
+      },
+      {
+        "spxsj": 1.2
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 1.2
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 1.2
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 600,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "1.20"
+  },
+  {
+    "_id": "5e042478fcdc4b9b876c575f",
+    "spid": "04140",
+    "spbh": "04140",
+    "spmc": "鹅城.复方感冒灵片",
+    "sptm": "04140",
+    "spfl0": "中成药",
+    "flid0": "a3bbfa03-dfae-048e-b03c-561f236babe6",
+    "spfl1": "中成药",
+    "flid1": "4511c315-c9be-c08e-b589-3920aa240425",
+    "spfl2": "解表剂",
+    "flid2": "e3e801cd-185a-a7a5-156c-cec64ea6635f",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "甲类非处方药",
+    "spxsj": 4,
+    "spscj": 8.5,
+    "spdw": "瓶",
+    "spkc": 4784,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广东省惠州市中药厂有限公司",
+    "spcj": "广东省惠州市中药厂有限公司",
+    "spgg": "100片",
+    "sppzwh": "国药准字Z44021869",
+    "zjm": "ffgmlp",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-12-31/240102",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 4
+      },
+      {
+        "spxsj": 4
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 4
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 4.3
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "非处方药(中成药)",
+    "zhengjs": 480,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "4.00"
+  },
+  {
+    "_id": "5e04254afcdc4b9b876c7731",
+    "spid": "00655",
+    "spbh": "00655",
+    "spmc": "大卫早早孕(HCG)检测试条",
+    "sptm": "00655",
+    "spfl0": "医疗器械",
+    "flid0": "60e2d379-fc96-e2af-deba-f6ca5d6e9e0d",
+    "spfl1": "医疗器械",
+    "flid1": "1dbfddd7-e51b-7072-b5b8-588441d84b42",
+    "spfl2": "医疗器械",
+    "flid2": "38f6368e-411b-5f5e-6187-0c8a44f7e9f5",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "其他",
+    "spxsj": 0.55,
+    "spscj": 2,
+    "spdw": "条",
+    "spkc": 7422,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "润和生物医药科技(汕头)有限公司",
+    "spcj": "润和生物医药科技(汕头)有限公司",
+    "spgg": "3.0mm*1条",
+    "sppzwh": "粤械注准20162400111",
+    "zjm": "dwzzyHCGjcst",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2026-05-31/20231202",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 0.55
+      },
+      {
+        "spxsj": 0.55
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0.55
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0.6
+      },
+      {
+        "spxsj": 0.69
+      }
+    ],
+    "operateCode": "<2类医疗器械>",
+    "zhengjs": 5000,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "0.55"
+  },
+  {
+    "_id": "5e042337fcdc4b9b876c24b0",
+    "spid": "20636",
+    "spbh": "20636",
+    "spmc": "午时金银花露",
+    "sptm": "20636",
+    "spfl0": "食品",
+    "flid0": "abfbf1a0-6d05-cbef-0b95-7a811c38354d",
+    "spfl1": "食品",
+    "flid1": "a0c84bcc-f1b8-afef-6a24-9906f9d4a084",
+    "spfl2": "其它类",
+    "flid2": "9c1a6a1e-5c75-e6a0-1738-6b9df55bb116",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "其他",
+    "spxsj": 3.95,
+    "spscj": 5,
+    "spdw": "瓶",
+    "spkc": 22212,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "湖北午时药业股份有限公司",
+    "spcj": "湖北午时药业股份有限公司",
+    "spgg": "340ml",
+    "sppzwh": "SC10642098200051",
+    "zjm": "wsjyhl",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 12,
+    "invaliddate": "2026-02-18/20240219",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 3.95
+      },
+      {
+        "spxsj": 3.95
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 4.15
+      },
+      {
+        "spxsj": 5.25
+      }
+    ],
+    "operateCode": "<食品>",
+    "zhengjs": 12,
+    "grossInterestRate": 10,
+    "full_increase": "买10件折1件",
+    "fullDown": 0,
+    "fullGift": 1,
+    "fullDownPromotionName": "领劵中心领劵",
+    "labelCommodity": [
+      {
+        "labelCommodityID": "6496d31f695eb304131561e0",
+        "labelName": "夏日解暑",
+        "isState": true,
+        "labelImg": "",
+        "ct": 1687606399341
+      },
+      {
+        "labelCommodityID": "5efe835f0f05fdb341f806a2",
+        "labelName": "买赠专区",
+        "isState": false,
+        "labelImg": "",
+        "ct": 1697773388936
+      }
+    ],
+    "fullGiftPromotionName": "午时金银花露 买10件折1件",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "3.95"
+  },
+  {
+    "_id": "5e042676fcdc4b9b876ca569",
+    "spid": "00538",
+    "spbh": "00538",
+    "spmc": "韩都.50%葡萄糖注射液",
+    "sptm": "00538",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "水、电解质及酸碱平衡调节",
+    "flid2": "3448c93c-b40f-ad87-f6df-dbabbab77ccc",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "处方药",
+    "spxsj": 2.4,
+    "spscj": 3.5,
+    "spdw": "盒",
+    "spkc": 5147,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "遂成药业股份有限公司",
+    "spcj": "遂成药业股份有限公司",
+    "spgg": "20ml:10g*5支",
+    "sppzwh": "国药准字H41023719",
+    "zjm": "pttzsy",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-11-30/52312041",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 2.4
+      },
+      {
+        "spxsj": 2.4
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "必须凭处方销售的处方药(化学药制剂)",
+    "zhengjs": 80,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "2.40"
+  },
+  {
+    "_id": "5e0425c2fcdc4b9b876c89cd",
+    "spid": "01393",
+    "spbh": "01393",
+    "spmc": "50%葡萄糖注射液(塑瓶)",
+    "sptm": "01393",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "水、电解质及酸碱平衡调节",
+    "flid2": "3448c93c-b40f-ad87-f6df-dbabbab77ccc",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "处方药",
+    "spxsj": 4.2,
+    "spscj": 10,
+    "spdw": "盒",
+    "spkc": 2656,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "湖北科伦药业有限公司",
+    "spcj": "湖北科伦药业有限公司",
+    "spgg": "20ml:10g*5支",
+    "sppzwh": "国药准字H42021188",
+    "zjm": "pttzsy",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-11-30/C231222E2J",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 4.2
+      },
+      {
+        "spxsj": 4.2
+      },
+      {
+        "spxsj": 4.2
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 4.41
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "必须凭处方销售的处方药(化学药制剂)",
+    "zhengjs": 120,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "50%葡萄糖注射液(塑瓶)   买10折1原品",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [
+      {
+        "labelCommodityID": "5efe835f0f05fdb341f806a2",
+        "labelName": "买赠专区",
+        "isState": false,
+        "labelImg": "",
+        "ct": 1697773389865
+      }
+    ],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "4.20"
+  },
+  {
+    "_id": "5e042522fcdc4b9b876c71ab",
+    "spid": "02372",
+    "spbh": "02372",
+    "spmc": "双氧水.过氧化氢溶液",
+    "sptm": "02372",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "其它类",
+    "flid2": "5d36a1a7-757b-00ef-d0e1-e24567a48398",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "处方药",
+    "spxsj": 2.98,
+    "spscj": 3.5,
+    "spdw": "瓶",
+    "spkc": 725,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "广东恒健制药有限公司",
+    "spcj": "广东恒健制药有限公司",
+    "spgg": "3%*100ml",
+    "sppzwh": "国药准字H44023919",
+    "zjm": "gyhqry",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-10-20/231037",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 2.98
+      },
+      {
+        "spxsj": 2.98
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 2.98
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 3.15
+      },
+      {
+        "spxsj": 3.63
+      }
+    ],
+    "operateCode": "处方药(化学药制剂)",
+    "zhengjs": 140,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "2.98"
+  },
+  {
+    "_id": "5e04267ffcdc4b9b876ca685",
+    "spid": "00560",
+    "spbh": "00560",
+    "spmc": "保龙康.复方酮康唑软膏",
+    "sptm": "00560",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "抗感染/微生物类",
+    "flid2": "78854055-3f0a-d283-1cd1-d73376a7dffd",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "处方药",
+    "spxsj": 6.78,
+    "spscj": 8.5,
+    "spdw": "支",
+    "spkc": 3217,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "上海宝龙药业股份有限公司",
+    "spcj": "上海宝龙药业股份有限公司",
+    "spgg": "8g",
+    "sppzwh": "国药准字H20013319",
+    "zjm": "fftkzrg",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2026-08-31/2309033",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 6.78
+      },
+      {
+        "spxsj": 6.78
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 6.78
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 6.85
+      },
+      {
+        "spxsj": 8.29
+      }
+    ],
+    "operateCode": "处方药(化学药制剂)",
+    "zhengjs": 600,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "offerShowStyle": "1",
+    "labelCommodity": [],
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "6.78"
+  },
+  {
+    "_id": "5e04267ffcdc4b9b876ca6bd",
+    "spid": "00594",
+    "spbh": "00594",
+    "spmc": "韩都.维生素C注射液",
+    "sptm": "00594",
+    "spfl0": "化学药品",
+    "flid0": "b12cf77b-fa9e-8a1e-fa71-4487c4604ace",
+    "spfl1": "化学药品",
+    "flid1": "9a2872ff-c090-3b26-18b8-b8cf1d1d5cfe",
+    "spfl2": "维生素类与矿物质类",
+    "flid2": "a5c02f06-95b3-7413-c67f-1c3f221cbcb0",
+    "ppid": "",
+    "issj": true,
+    "iscfy": "处方药",
+    "spxsj": 1.75,
+    "spscj": 0,
+    "spdw": "盒",
+    "spkc": 7741,
+    "spzl": 0,
+    "sptj": 0,
+    "spcd": "遂成药业股份有限公司",
+    "spcj": "遂成药业股份有限公司",
+    "spgg": "2ml：0.5g*10支",
+    "sppzwh": "国药准字H41023317",
+    "zjm": "wssCzsy",
+    "jf": 0,
+    "isDelete": 0,
+    "zhongbz": 1,
+    "invaliddate": "2025-10-31/72311291",
+    "grade_price": [],
+    "grade": [
+      {
+        "spxsj": 1.75
+      },
+      {
+        "spxsj": 1.75
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      },
+      {
+        "spxsj": 0
+      }
+    ],
+    "operateCode": "必须凭处方销售的处方药(化学药制剂)",
+    "zhengjs": 300,
+    "grossInterestRate": 10,
+    "full_increase": "",
+    "fullDown": 0,
+    "fullGift": 0,
+    "fullDownPromotionName": "领劵中心领劵",
+    "fullGiftPromotionName": "中国药材.上清丸   买10盒送清风抽纸一提【40623】",
+    "medicalType": "",
+    "cargoOwner": "",
+    "labelCommodity": [],
+    "offerShowStyle": "1",
+    "buyState": false,
+    "isNearEffect": false,
+    "dimensionalControl_sp": "",
+    "controlSalesIdentification": "",
+    "discountPrice_cx": 0,
+    "discountPrice_cxgz": "",
+    "discountPrice_yhq": "",
+    "discountPrice_cx_jg": 0,
+    "discountPrice_yhq_jg": 0,
+    "discountPrice_jg": "1.75"
+  }
+]
