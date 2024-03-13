@@ -1,4 +1,4 @@
-const colorList = [
+exports.colorList = [
     "rgba(0,0,0,0.3)",
     "#000",
     "rgba(0, 0, 0, 0.2)",

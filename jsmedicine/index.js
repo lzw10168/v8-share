@@ -101,7 +101,7 @@ const data = encryptParams(originParams)
     data : data
   };
   
-  axios.request(config)
+  return axios.request(config)
   .then((response) => {
     let realdata =aesDecrypt(response.data, aesKey);
     realdata = JSON.parse(realdata);
@@ -114,6 +114,12 @@ const data = encryptParams(originParams)
 }
 
 
-sendRequest(2)
 
 
+// 队列请求
+async function queueRequest() {
+  for (let i = 1; i < 30; i++) {
+    await sendRequest(i);
+  }
+}
+queueRequest
