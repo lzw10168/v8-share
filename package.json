@@ -1,12 +1,17 @@
 {
-  "dependencies": {
-    "aes-js": "^3.1.2",
-    "axios": "^1.6.7",
-    "body-parser": "^1.20.2",
-    "express": "^4.18.3",
-    "jsencrypt": "^3.3.2",
-    "node-jsencrypt": "^1.0.0",
-    "nodemailer": "^6.9.11",
-    "xlsx": "^0.18.5"
-  }
+    "scripts": {
+        "start": "nodemon gitmerge/app.js"
+    },
+    "dependencies": {
+        "aes-js": "^3.1.2",
+        "async": "^3.2.5",
+        "axios": "^1.6.7",
+        "body-parser": "^1.20.2",
+        "crypto-js": "^4.2.0",
+        "express": "^4.18.3",
+        "jsencrypt": "^3.3.2",
+        "node-jsencrypt": "^1.0.0",
+        "nodemailer": "^6.9.11",
+        "xlsx": "^0.18.5"
+    }
 }
