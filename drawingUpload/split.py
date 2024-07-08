@@ -172,11 +172,20 @@ def extract_text_from_bottom_right_corner(pdf_path):
         mat = fitz.Matrix(1, 1)  # 1.5表示放大1.5倍
         rect = page.rect
         #print(rect)
-        clip = fitz.Rect(0.9*rect.width, 0.9*rect.height,1*rect.width,1*rect.height)
+        # clip = fitz.Rect(0.95*rect.width, 0.95*rect.height,1*rect.width,1*rect.height)
+
+        # 指定矩形区域查number
+        clip = fitz.Rect(2457.121337890625, 1681.639892578125, 2524.08447265625, 1694.42138671875)
         pix = page.get_pixmap(matrix=mat, alpha=False, clip=clip)
         pix.save("test.png") 
         a_text = page.get_text(clip=clip)
         print(a_text)
+
+
+        # 反查number在PDF中的位置信息.
+        text_instances = page.search_for('E19')
+        for inst in text_instances:
+            print(inst)
         # 将提取的文本添加到列表中
         # text_from_corners.append(text)
 
