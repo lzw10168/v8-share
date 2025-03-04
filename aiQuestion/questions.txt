@@ -1,0 +1,36 @@
+1. Any new change orders with high priority
+2. Any RFIs that are due within the next 7 days
+3. Any submittal of Prepare for review items assigned to me
+4. Are there any projects of status Construction in Florida?
+5. Average response time of RFIs (Hrs)
+6. Average response time of submittal (Days)
+7. Create an activity when Asset status changes to Recommendation: Replace
+8. Create an activity when Assign To is Assigned in Project RFIs
+9. Create an activity when Bid Package changes to In Progress
+10. Create an activity when Budget status changes to Revision Requested
+11. Create an activity when Change Order status changes to Pending Submission
+12. Create an activity when date arrives 1 month after Market-Service License Expiration Date
+13. Create an activity when date arrives 1 month before Due date in Insurance
+14. Create an activity when date arrives 1 week after Due date in Inspection
+15. Create an activity when date arrives 1 week before Due date in Inspection
+16. Create an activity when date arrives 3 days after Due date in Checklist
+17. Create an activity when date arrives 3 days before Due date in Punch List Item
+18. Create an activity when GC or SC is Unassigned in Inspection
+19. Create an activity when GC or SC is Unassigned in Punch List Item
+20. Create an activity when Grand Total (Change Order Revision Requested) > $1000
+21. Create an activity when Project status changes to Pending Closeout Accept
+22. Create an activity when Proposal status changes to Revision Requested
+23. Create an activity when Punch List Item status changes to Ready for Review
+24. Create an activity when state of Submittal item is Submitter is Waiting for submission
+25. Create an activity when Task or Subtask status changes to Ready for Review
+26. Find a lead of status Closed Won
+27. How many new leads do we have?
+28. How many new projects in Texas?
+29. How many RFIs will be expired in this month?
+30. Is there a new project in California?
+31. List RFIs expired last month and are still in the open state
+32. Pie of all leads count by status
+33. Show me the RFIs creation trends in past 6 months
+34. Show submittals with the spec section converted income
+35. Top 3 owner who has been assigned with most tasks last month
+36. Top 3 states with the most new projects

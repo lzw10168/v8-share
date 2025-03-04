@@ -81,6 +81,10 @@ afinn-165@^1.0.2:
   version "1.0.4"
   resolved "https://registry.npmmirror.com/afinn-165/-/afinn-165-1.0.4.tgz#3abf6b8922dd5db84d84e0abd155924381dd73a4"
 
+agent-base@^7.1.0:
+  version "7.1.3"
+  resolved "https://registry.npmmirror.com/agent-base/-/agent-base-7.1.3.tgz#29435eb821bc4194633a5b89e5bc4703bafc25a1"
+
 apparatus@^0.0.10:
   version "0.0.10"
   resolved "https://registry.npmmirror.com/apparatus/-/apparatus-0.0.10.tgz#81ea756772ada77863db54ceee8202c109bdca3e"
@@ -438,6 +442,13 @@ http-errors@2.0.0:
     statuses "2.0.1"
     toidentifier "1.0.1"
 
+http-proxy-agent@^7.0.2:
+  version "7.0.2"
+  resolved "https://registry.npmmirror.com/http-proxy-agent/-/http-proxy-agent-7.0.2.tgz#9a8b1f246866c028509486585f62b8f2c18c270e"
+  dependencies:
+    agent-base "^7.1.0"
+    debug "^4.3.4"
+
 http-proxy-middleware@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmmirror.com/http-proxy-middleware/-/http-proxy-middleware-3.0.0.tgz#550790357d6f92a9b82ab2d63e07343a791cf26b"
@@ -543,6 +554,14 @@ min-document@^2.19.0:
   resolved "https://registry.npmmirror.com/min-document/-/min-document-2.19.0.tgz"
   dependencies:
     dom-walk "^0.1.0"
+
+minimist@^1.2.8:
+  version "1.2.8"
+  resolved "https://registry.npmmirror.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
+
+moment@^2.30.1:
+  version "2.30.1"
+  resolved "https://registry.npmmirror.com/moment/-/moment-2.30.1.tgz#f8c91c07b7a786e30c59926df530b4eac96974ae"
 
 mongodb-connection-string-url@^3.0.0:
   version "3.0.0"

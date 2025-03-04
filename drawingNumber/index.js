@@ -58,6 +58,7 @@ fs.readFile(filePath, 'utf8', (err, data) => {
 
   // 准备一个数组来保存保留的行
   let retainedLines = [];
+  
 
   // 定义一个函数来创建字符串的结构签名
   function createStructureSignature(str) {
